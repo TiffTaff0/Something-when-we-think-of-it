@@ -2,3 +2,8 @@
   align-items:center;}
 .navbar-brand{background-color:lightpink;}
   form{align-items:center;}
+
+h1{text-align:center;}
+.contactlist{text-align:center;}
+#twitter{width=30px,height=30px}
+#instagram{width=30px,height=30px}
