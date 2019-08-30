@@ -1,11 +1,11 @@
-.container-fluid{background-color:lightblue;
+.container-fluid{background-image: url("marble.jpg");
   text-align:center; font-family:monospace;
 width:1000px;}
-.navbar-collapse{background-color:lightblue;
+.navbar-collapse{background-image: url("marble.jpg");
   align-items:center;}
-.navbar-brand{background-color:lightblue;}
+.navbar-brand{background-image: url("marble.jpg");}
   form{align-items:center;}
-  body{background-image:url("marble.jpg");}
+  body{background-image: url("marble.jpg");}
 .carousel-inner{text-align:center;}
   .carousel-inner > .carousel-item > img {
     margin: 0 auto;}}
