@@ -1,4 +1,11 @@
-.navbar-collapse{background-color:lightpink;
+.container-fluid{background-color:lightblue;
+  text-align:center; font-family:monospace;
+width:1000px;}
+.navbar-collapse{background-color:lightblue;
   align-items:center;}
-.navbar-brand{background-color:lightpink;}
+.navbar-brand{background-color:lightblue;}
   form{align-items:center;}
+  body{background-image:url("marble");}
+.carousel-inner{text-align:center;}
+  .carousel-inner > .carousel-item > img {
+    margin: 0 auto;}}
