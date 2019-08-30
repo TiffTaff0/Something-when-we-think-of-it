@@ -1,4 +1,8 @@
-h1 {
+.container-fluid{background-image: url("marble.jpg");
+  text-align:center; font-family:monospace;
+width:1000px;}
+
+h2 {
   text-align: center;
   font-family:sans-serif;
   color: green
@@ -7,7 +11,7 @@ h1 {
 .intro {
   font-family: serif;
   text-align: center;
-  font-size: 40px;
+  font-size: 20px;
 
 }
 
