@@ -1,10 +1,11 @@
-.navbar-collapse{background-color:lightpink;
+.container-fluid{background-image: url("marble.jpg");
+  text-align:center; font-family:monospace;
+width:1000px;}
+.navbar-collapse{background-image: url("marble.jpg");
   align-items:center;}
-.navbar-brand{background-color:lightpink;}
+.navbar-brand{background-image: url("marble.jpg");}
   form{align-items:center;}
+  body{background-image: url("marble.jpg");}
 
 h1{text-align:center;}
 .contactlist{text-align:center;}
-
-#twitter{width=30px, height=30px}
-#instagram{width=30px, height=30px}
